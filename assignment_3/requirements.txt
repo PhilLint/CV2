@@ -1,0 +1,11 @@
+pyrender
+tensorflow==1.13.1
+matplotlib
+pandas
+ipython
+jupyter
+trimesh
+shapely
+tqdm
+h5py
+dlib
